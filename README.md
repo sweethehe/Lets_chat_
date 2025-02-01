@@ -1,4 +1,4 @@
-# Lets_chat_
+# Lets_chat 💬
 
 A mobile chat application for users. It allows : 
 - Registration and
