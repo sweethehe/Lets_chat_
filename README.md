@@ -1,7 +1,7 @@
 # Lets_chat_
 
 A mobile chat application for users. It allows : 
-- Registration
+- Registration and
 - Login using an email, username, and password
 
 Once logged in, users can view registered users, send messages, add them as friends, edit their nicknames, and access many other features.
